@@ -1,0 +1,17 @@
+cachetools>=4.1.0
+py4ai-core>=1.0.0
+py4ai-data>=0.0.1
+dask[dataframe]>=0.20.0
+dill>=0.2.8.2
+gensim>=3.8.2
+imbalanced-learn>=0.8.0
+langdetect>=1.0.7
+matplotlib<3.4
+networkx>=2.2
+nltk>=3.3
+psutil>=5.4.7
+scikit-learn>=0.24
+seaborn>=0.10.1
+typeguard>=2.13.0
+typing-extensions>=4.0
+urllib3>=1.23
